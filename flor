@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viemport" content="width=device-width, initial-scale=1.0">
+    <title<Flores Amarillas</title>
+        <style>
+            /* Estilo para el centro de la flor */
+            .center {
+                font-size: 30px;
+                color: rgb(255, 191, 0);
+            }
+            /* Estilo de los pétalos */
+            .petal {
+                font-size: 20px;
+                color: yellow;
+            }
+        </style>
+</head>
+<body>
+    <div class="center">o</div>
+    <div class="petal">* * *</div>
+    <div class="petal">* * *</div>
+    <div class="petal">* * *</div>
+    <div class="petal">* * *</div>
+    <div class="petal">* * *</div>
+    <div class="petal">* * *</div>
+    <div class="petal">* * *</div>
+    <div class="petal">* * *</div>
+</body>
+</html>
